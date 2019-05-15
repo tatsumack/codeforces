@@ -1,13 +1,13 @@
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14")
 
-add_executable(A div2/558/A.cpp)
-add_executable(B div2/558/B.cpp)
+add_executable(A div3/560/A.cpp)
+add_executable(B div3/560/B.cpp)
 
-add_executable(C div2/558/C.cpp)
+add_executable(C div3/560/C.cpp)
 
-add_executable(D div2/E60/D.cpp)
+add_executable(D div3/560/D.cpp)
 
-add_executable(E div2/538/E.cpp)
+add_executable(E div3/560/E.cpp)
 
 add_executable(C_2 div3/506/C_2.cpp)
 
